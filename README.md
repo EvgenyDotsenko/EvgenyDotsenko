@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EvgenyDotsenko
+- 👀 I’m interested in books, basketball, cinema , gym and healty food 
+- 🌱 I’m currently learning Node.JS, Java Script, React.
+- 💞️ I’m looking to collaborate on  Node.JS, Java Script, React.
